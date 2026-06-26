@@ -1,6 +1,0 @@
-customtkinter
-openpyxl
-pandas
-speechrecognition
-pyaudio
-pillow
